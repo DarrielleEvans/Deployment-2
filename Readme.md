@@ -15,7 +15,6 @@
 
 ## Step 2
 * I setup the appropriate Roles in IAM on AWS to deploy the application in Elastic Beanstalk.
-<img width="1287" alt="Deployment 1 1 Degraded" src="https://github.com/DarrielleEvans/AWS-Deployment-1.1/assets/89504317/af2b6f46-8c98-4f78-a87f-b3e81c925dbd">
 * The health status says pending but the website did deploy.
 
 
